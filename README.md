@@ -9,6 +9,9 @@ no island hydrates and `<OgygiaRouter />` never boots.
 
 ## Run it
 
+(`.env` is committed on purpose: ogygia requires `OGYGIA_SECRET` >= 16 bytes for a
+production build, and the value there is a throwaway so the repro runs in one step.)
+
 ```sh
 npm install
 npm run build
