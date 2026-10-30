@@ -7,13 +7,13 @@
     "preview": "vite preview"
   },
   "devDependencies": {
-    "@sveltejs/adapter-auto": "7.0.1",
-    "@sveltejs/kit": "2.70.2",
+    "@sveltejs/adapter-auto": "8.0.0",
+    "@sveltejs/kit": "3.1.1",
     "@sveltejs/vite-plugin-svelte": "7.3.0",
     "svelte": "5.56.8",
     "vite": "8.2.1"
   },
   "dependencies": {
-    "ogygia": "0.4.3"
+    "ogygia": "0.8.6"
   }
 }
